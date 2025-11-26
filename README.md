@@ -1,9 +1,9 @@
-# LDU_Factorization
+# DecomposeX
 ## LDU Factorization of an n*n Matrix
 ### Overview
 This project provides a web-based tool to perform LDU (Lower-Diagonal-Upper) factorization of an n\*n matrix. The application is built using HTML, CSS, and JavaScript, and it allows users to input a matrix, visualize the steps of the factorization process, and see the resulting L, D, and U matrices.
 
-![LDU Factorization](https://github.com/iPriyadarshi/LDU_Factorization/blob/main/ldu-factorization.png)
+![LDU Factorization](https://github.com/iPriyadarshi/DecomposeX/blob/main/ldu-factorization.png)
 
 ### Features
 - **Matrix Input**: Dynamically generate a matrix input form based on user-defined matrix size.
@@ -17,8 +17,8 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/iPriyadarshi/LDU_factorization.git
-cd LDU_factorization
+git clone https://github.com/iPriyadarshi/DecomposeX.git
+cd DecomposeX
 ```
 
 2. **Open `index.html` in a web browser**:
